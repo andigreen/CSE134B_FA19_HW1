@@ -1,0 +1,21 @@
+html, body {
+	background-color: lightblue;
+}
+
+.intro {
+	text-align: center;
+	background-color: #fcfcdc;
+	padding: 20px 0;
+}
+
+.intro-title {
+	font-family: 'Literata', serif;
+}
+
+.video-section {
+	text-align: center;
+}
+
+.img-section {
+	text-align: center;
+}
